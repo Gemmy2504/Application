@@ -39,6 +39,8 @@ Status Code: 201 Created
 Body: User object with assigned UserId.
 Status Code: 400 Bad Request if the username is already taken.
 
+
+
 PUT /api/users/{id}
 Description: Update user information.
 Authentication: Requires seller role.
