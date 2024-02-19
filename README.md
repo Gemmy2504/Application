@@ -2,14 +2,7 @@ API Documentation: Vending Machine
 Introduction
 Welcome to the documentation for the Vending Machine API. This API provides endpoints for managing users, products, and vending machine transactions.
 
-////////////////////
 
-first of all i wanna let you know i didn't use data base so i just use lists and added the product/user to it
-i used some hard coded data to test
-so some functions will not run but i submitted before the dead line,
-thanks in advanced  
-
-//////////////////////
 
 Resources
 
